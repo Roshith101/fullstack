@@ -1,0 +1,10 @@
+.feat{
+    background-image: url('../images/home1.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+    height:100vh;
+    overflow:hidden;
+    padding:0; 
+    background-size: 100% 100%;
+    background-position: center;
+}
