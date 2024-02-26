@@ -1,0 +1,38 @@
+.abt{
+    background-image: url('../images/home1.jpg');
+    background-repeat: no-repeat;
+  background-size:contain;
+  height:100vh;
+  overflow:hidden;
+  padding:0; 
+  background-size: 100% 100%;
+  background-position: center;
+}
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+
+.about-container h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.about-container p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+.outer-container {
+    margin-top:30px;
+    margin-left: 300px;
+    border:none;
+    border-radius: 30px;
+    width:60%;
+    height:500px;
+    background: linear-gradient(90deg, rgba(211, 200, 238, 0.8), rgba(148, 44, 255, 0.8));
+    
+}
+

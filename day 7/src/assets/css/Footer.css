@@ -1,0 +1,27 @@
+.site-footer
+{
+  background: linear-gradient(90deg, rgba(211, 200, 238, 0.8), rgba(148, 44, 255, 0.8));
+  padding:45px 0 20px;
+  font-size:15px;
+  /* line-height:24px; */
+  color:#5c26d9;
+  /* position: 'fixed'; */
+   width: 100%; 
+   text-align:center;  
+   margin-top: 0px;
+   /* margin-bottom: 10px; */
+   height: 10px;
+  
+}
+.site-footer a
+{
+  color:#737373;
+}
+.site-footer a:hover
+{
+  color:#3366cc;
+  text-decoration:none;
+}
+.copyright-text{
+  transform: translate(0px,-20px);
+}
